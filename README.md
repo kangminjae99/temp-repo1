@@ -8,7 +8,7 @@ In order to build it, I will use [`opencv`](https://opencv.org/), deep learning 
 
 For example, the objects in the following images were detected using [`mmdetection`](https://github.com/open-mmlab/mmdetection):  
 
-![Object detection example](https://user-images.githubusercontent.com/12907710/187674113-2074d658-f2fb-42d1-ac15-9c4a695e64d7.png)
+![Object detection example]([https://user-images.githubusercontent.com/12907710/187674113-2074d658-f2fb-42d1-ac15-9c4a695e64d7.png](https://user-images.githubusercontent.com/12907710/137271636-56ba1cd2-b110-4812-8221-b4c120320aa9.png))
 
 ### Dependencies
 The following are the required dependencies:
