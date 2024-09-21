@@ -8,7 +8,7 @@ In order to build it, I will use `opencv`, deep learning libraries, such as **Te
   
 For example, the objects in the following images were detected using `mmdetection`:  
 
-![Object detection example](https://github.com/open-mmlab/mmdetection)
+![Object detection example](https://user-images.githubusercontent.com/12907710/187674113-2074d658-f2fb-42d1-ac15-9c4a695e64d7.png)
 
 
 ### Dependencies
