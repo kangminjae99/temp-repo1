@@ -5,8 +5,11 @@
 I am planning to make a **computer vision software** that detects objects in images.
 
 In order to build it, I will use `opencv`, deep learning libraries, such as **TensorFlow** or **PyTorch**, and other open source software.
-
+  
 For example, the objects in the following images were detected using `mmdetection`:  
+
+![Object detection example](https://github.com/open-mmlab/mmdetection)
+
 
 ### Dependencies
 The following are the required dependencies:
